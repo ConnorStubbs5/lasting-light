@@ -1,0 +1,35 @@
+{
+    "name": "Rose Enright",
+    "birthDate": "1942",
+    "deathDate": "2018",
+  
+    "heroQuote": "To live in hearts we leave behind is not to die.",
+  
+    "song": "/memorials/rose-enright/music/james-taylor.mp3",
+  
+    "slides": [
+      {
+        "type": "image",
+        "src": "/memorials/grandma/photos/photo1.jpg"
+      },
+      {
+        "type": "image",
+        "src": "/memorials/grandma/photos/photo2.jpg"
+      },
+      {
+        "type": "video",
+        "src": "/memorials/grandma/videos/video1.mp4"
+      }
+    ],
+  
+    "timeline": [
+      {
+        "year": "1963",
+        "event": "Married the love of her life"
+      },
+      {
+        "year": "1971",
+        "event": "Raised her first child"
+      }
+    ]
+  }
