@@ -1,0 +1,139 @@
+{
+  "name": "Rose Enright",
+  "birthDate": "November 6, 1957",
+  "deathDate": "May 24, 2018",
+  "heroQuote": "Loved beyond words, missed beyond measure.",
+  "song": "/memorials/rose-enright/music/jt-fire-rain.mp3",
+  "slides": [
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/photo1.JPG"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/photo2.JPG"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/photo3.JPG"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/photo4.JPG"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/photo5.JPG"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/photo6.JPG"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/photo7.JPG"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/photo8.JPG"
+      },
+        {
+            "type": "image",
+            "src": "/memorials/rose-enright/photos/photo9.JPG"
+        },
+        {
+            "type": "image",
+            "src": "/memorials/rose-enright/photos/photo10.JPG"
+        },
+        {
+            "type": "image",
+            "src": "/memorials/rose-enright/photos/photo11.JPG"
+        },
+        {
+            "type": "image",
+            "src": "/memorials/rose-enright/photos/photo12.JPG"
+        },
+        {
+            "type": "image",
+            "src": "/memorials/rose-enright/photos/photo13.JPG"
+        },
+        {
+            "type": "image",
+            "src": "/memorials/rose-enright/photos/photo14.JPG"
+        },
+        {
+            "type": "image",
+            "src": "/memorials/rose-enright/photos/photo15.JPG"
+        },
+        {
+            "type": "image",
+            "src": "/memorials/rose-enright/photos/photo16.JPG"
+        },
+        {
+            "type": "image",
+            "src": "/memorials/rose-enright/photos/photo17.JPG"
+        },
+        {
+            "type": "image",
+            "src": "/memorials/rose-enright/photos/photo18.JPG"
+        },
+        {
+            "type": "image",
+            "src": "/memorials/rose-enright/photos/photo19.JPG"
+        },
+        {
+            "type": "image",
+            "src": "/memorials/rose-enright/photos/photo20.JPG"
+        },
+        {
+            "type": "image",
+            "src": "/memorials/rose-enright/photos/photo21.JPG"
+        },
+        {
+            "type": "image",
+            "src": "/memorials/rose-enright/photos/photo22.JPG"
+        },
+        {
+            "type": "image",
+            "src": "/memorials/rose-enright/photos/photo23.JPG"
+        },
+        {
+            "type": "image",
+            "src": "/memorials/rose-enright/photos/photo24.JPG"
+        },
+        {
+            "type": "image",
+            "src": "/memorials/rose-enright/photos/photo25.JPG"
+        },
+        {
+            "type": "image",
+            "src": "/memorials/rose-enright/photos/photo26.JPG"
+        },
+        {
+            "type": "image",
+            "src": "/memorials/rose-enright/photos/photo27.JPG"
+        },
+        {
+            "type": "image",
+            "src": "/memorials/rose-enright/photos/photo28.JPG"
+        },
+        {
+            "type": "image",
+            "src": "/memorials/rose-enright/photos/photo29.JPG"
+        },
+        {
+            "type": "image",
+            "src": "/memorials/rose-enright/photos/photo30.JPG"
+        }
+  ],
+  "timeline": [
+      {
+          "year": "1957",
+          "event": "Born"
+      },
+      {
+          "year": "2018",
+          "event": "Passed"
+      }
+  ]
+}

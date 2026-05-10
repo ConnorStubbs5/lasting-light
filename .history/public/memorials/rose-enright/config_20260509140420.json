@@ -1,0 +1,51 @@
+{
+  "name": "Rose Enright",
+  "birthDate": "November 6, 1957",
+  "deathDate": "May 24, 2018",
+  "heroQuote": "To live in hearts we leave behind is not to die.",
+  "song": "/memorials/rose-enright/music/jt-fire-rain.mp3",
+  "slides": [
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/photo1.JPG"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/photo2.JPG"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/photo3.JPG"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/photo4.JPG"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/photo5.JPG"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/photo6.JPG"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/photo7.JPG"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/photo8.JPG"
+      }
+  ],
+  "timeline": [
+      {
+          "year": "1963",
+          "event": "Married the love of her life"
+      },
+      {
+          "year": "1971",
+          "event": "Raised her first child"
+      }
+  ]
+}

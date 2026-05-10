@@ -1,0 +1,51 @@
+{
+  "name": "Rose Enright",
+  "birthDate": "1942",
+  "deathDate": "2018",
+  "heroQuote": "To live in hearts we leave behind is not to die.",
+  "song": "/memorials/rose-enright/music/jt-fire-rain.mp3",
+  "slides": [
+      {
+          "type": "image",
+          "src": "/memorials/grandma/photos/photo1.jpg"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/grandma/photos/photo2.jpg"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/grandma/photos/photo3.jpg"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/grandma/photos/photo4.jpg"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/grandma/photos/photo5.jpg"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/grandma/photos/photo6.jpg"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/grandma/photos/photo7.jpg"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/grandma/photos/photo8.jpg"
+      }
+  ],
+  "timeline": [
+      {
+          "year": "1963",
+          "event": "Married the love of her life"
+      },
+      {
+          "year": "1971",
+          "event": "Raised her first child"
+      }
+  ]
+}
