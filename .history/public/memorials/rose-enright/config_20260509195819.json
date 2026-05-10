@@ -178,11 +178,14 @@
             "src": "/memorials/rose-enright/photos/converted_jpeg/image_043.jpeg"
         }
   ],
+
+  "subtitle": "Beloved Mother, Grandmother, and Friend",
+
   "profile": {
     "username": "rose.enright",
-    "profilePicture": "/memorials/rose-enright/profile/profile.jpeg",
-    "bio": "Loving mother, grandmother, and friend. Lover of slots and James Taylor.",
-    "posts": 50,
+    "profilePicture": "/memorials/rose-enright/profile/profile.jpg",
+    "bio": "Test",
+    "posts": 80,
     "followers": "100",
     "following": "100"
   },

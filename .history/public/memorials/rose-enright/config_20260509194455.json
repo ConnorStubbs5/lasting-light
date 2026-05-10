@@ -164,28 +164,8 @@
         {
             "type": "image",
             "src": "/memorials/rose-enright/photos/converted_jpeg/image_040.jpeg"
-        },
-        {
-            "type": "image",
-            "src": "/memorials/rose-enright/photos/converted_jpeg/image_041.jpeg"
-        },
-        {
-            "type": "image",
-            "src": "/memorials/rose-enright/photos/converted_jpeg/image_042.jpeg"
-        },
-        {
-            "type": "image",
-            "src": "/memorials/rose-enright/photos/converted_jpeg/image_043.jpeg"
-        }
+        } 
   ],
-  "profile": {
-    "username": "rose.enright",
-    "profilePicture": "/memorials/rose-enright/profile/profile.jpeg",
-    "bio": "Loving mother, grandmother, and friend. Lover of slots and James Taylor.",
-    "posts": 50,
-    "followers": "100",
-    "following": "100"
-  },
   "timeline": [
       {
           "year": "1957",

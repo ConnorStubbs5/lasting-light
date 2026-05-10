@@ -1,0 +1,80 @@
+{
+  "name": "Rosemary Enright",
+  "birthDate": "November 6, 1957",
+  "deathDate": "May 24, 2018",
+  "heroQuote": "Loved beyond words, missed beyond measure.",
+  "song": "/memorials/rose-enright/music/jt-fire-rain.mp3",
+  "slides": [
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/converted_jpeg/image_001.jpeg"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/converted_jpeg/image_002.jpeg"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/converted_jpeg/image_003.jpeg"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/converted_jpeg/image_004.jpeg"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/converted_jpeg/image_005.jpeg"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/converted_jpeg/image_006.jpeg"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/converted_jpeg/image_007.jpeg"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/converted_jpeg/image_008.jpeg"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/converted_jpeg/image_009.jpeg"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/converted_jpeg/image_010.jpeg"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/converted_jpeg/image_011.jpeg"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/converted_jpeg/image_012.jpeg"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/converted_jpeg/image_013.jpeg"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/converted_jpeg/image_014.jpeg"
+      },
+      {
+          "type": "image",
+          "src": "/memorials/rose-enright/photos/converted_jpeg/image_015.jpeg"
+      }
+      
+  ],
+  "timeline": [
+      {
+          "year": "1957",
+          "event": "Born"
+      },
+      {
+          "year": "2018",
+          "event": "Passed"
+      }
+  ]
+}
