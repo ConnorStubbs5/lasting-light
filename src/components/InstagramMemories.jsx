@@ -57,7 +57,7 @@ export default function InstagramMemories({ config, onBack }) {
         ">
 
           <img
-            src={config.profile.profilePicture}
+            src={`${import.meta.env.BASE_URL}${config.profile.profilePicture}`}
             alt="Profile"
             className="
               w-32
@@ -138,10 +138,10 @@ export default function InstagramMemories({ config, onBack }) {
                 >
 
                   <img
-                    src={slide.src}
+                    src={`${import.meta.env.BASE_URL}${slide.src}`}
                     alt="Memory"
                     loading="lazy"
-                    onClick={() => setSelectedImage(slide.src)}
+                    onClick={() => setSelectedImage(`${import.meta.env.BASE_URL}${slide.src}`)}
                     className="
                       w-full
                       h-full

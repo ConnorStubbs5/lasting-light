@@ -15,7 +15,7 @@ export default function MemorialPage() {
   const audioRef = useRef(null)
 
   useEffect(() => {
-    fetch("/memorials/rose-enright/config.json")
+    fetch(`${import.meta.env.BASE_URL}memorials/rose-enright/config.json`)
       .then(res => res.json())
       .then(data => setConfig(data))
   }, [])
@@ -58,7 +58,7 @@ export default function MemorialPage() {
     <div className="w-full h-full relative">
 
       <audio ref={audioRef} loop>
-        <source src={config.song} type="audio/mp3" />
+        <source  src={`${import.meta.env.BASE_URL}${config.song}`} type="audio/mp3" />
       </audio>
 
       {view === "home" && (

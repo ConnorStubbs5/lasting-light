@@ -11,7 +11,7 @@ export default function MemorialSlideshow({ slides, onBack }) {
       {/* Static Sky Background */}
       <div className="absolute inset-0 z-0 overflow-hidden">
         <img
-          src="/backgrounds/sky.webp"
+          src={`${import.meta.env.BASE_URL}backgrounds/sky.webp`}
           className="
             w-full
             h-full
@@ -62,7 +62,7 @@ export default function MemorialSlideshow({ slides, onBack }) {
 
               {slide.type === "image" && (
                 <img
-                  src={slide.src}
+                  src={`${import.meta.env.BASE_URL}${slide.src}`}
                   loading="lazy"
                   className="
                     max-w-[90%]
@@ -77,7 +77,7 @@ export default function MemorialSlideshow({ slides, onBack }) {
 
               {slide.type === "video" && (
                 <video
-                  src={slide.src}
+                  src={`${import.meta.env.BASE_URL}${slide.src}`}
                   autoPlay
                   muted
                   loop

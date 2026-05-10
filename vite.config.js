@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-   base: "/lasting-light/"
+  base: "/lasting-light/"
 })

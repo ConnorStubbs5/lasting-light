@@ -19,25 +19,11 @@ export default function HeroOverlay({
 
       <div className="text-center px-6">
 
-        <h1
-          className="
-            text-5xl
-            md:text-7xl
-            font-serif
-            mb-4
-          "
-        >
+        <h1 className="text-5xl md:text-7xl font-serif mb-4">
           In Loving Memory
         </h1>
 
-        <h2
-          className="
-            text-3xl
-            md:text-5xl
-            text-yellow-200
-            mb-2
-          "
-        >
+        <h2 className="text-3xl md:text-5xl text-yellow-200 mb-2">
           {config.name}
         </h2>
 
@@ -45,16 +31,7 @@ export default function HeroOverlay({
           {config.birthDate} — {config.deathDate}
         </p>
 
-        <p
-          className="
-            italic
-            text-lg
-            max-w-xl
-            mx-auto
-            mb-10
-            opacity-90
-          "
-        >
+        <p className="italic text-lg max-w-xl mx-auto mb-10 opacity-90">
           "{config.heroQuote}"
         </p>
 
@@ -102,6 +79,24 @@ export default function HeroOverlay({
           </button>
 
         </div>
+
+        {/* 🌹 Decoration (NOW BELOW BUTTONS) */}
+        {config.heroDecorationImage && (
+          <div className="mt-10 flex justify-center">
+            <img
+              src={`${import.meta.env.BASE_URL}${config.heroDecorationImage}`}
+              alt="Decoration"
+              className="
+                w-64 md:w-80
+                opacity-80
+                hover:opacity-100
+                transition
+                duration-500
+                pointer-events-none
+              "
+            />
+          </div>
+        )}
 
       </div>
 
